@@ -1,2 +1,2 @@
-# Olamundo
- Primeiro repositório do curdo Git e Github
+# Olá,mundo!
+ Primeiro repositório do curso Git e Github
